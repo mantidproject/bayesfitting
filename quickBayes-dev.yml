@@ -12,3 +12,9 @@ dependencies:
   - joblib
   - Cython
   - gofit
+  - sphinx
+  - jupyter-book
+  - nbsphinx
+  - matplotlib
+  - pip:
+    - readthedocs-sphinx-ext
