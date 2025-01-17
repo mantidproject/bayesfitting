@@ -13,15 +13,17 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   Introduction <intro>
-   Installation and support <install>
-   Fitting <fitting/index>
-   loglikelihood
-   Workflows <workflows/index>
+   Welcome to quickBayes <intro>
+   Introduction <introduction>
    History <history>
+   Installation and support <install>
+   Bayesian Theory <maths>
+   Theory of quickBayes <theory>
+   Bayesian methods comparison <cf/index>
+   Examples <examples/index>
    Developer docs <dev/index>
-   usage
    api
+
 
 Indices and tables
 ==================
